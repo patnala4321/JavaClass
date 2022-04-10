@@ -1,4 +1,4 @@
-package Lang;
+package lang;
 
 import static java.lang.Math.*;
 
